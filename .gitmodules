@@ -7,3 +7,9 @@
 [submodule "products-ms"]
 	path = products-ms
 	url = https://github.com/Nest-MicroservicesSeinen/products-microservices.git
+[submodule "payments-ms"]
+	path = payments-ms
+	url = https://github.com/Nest-MicroservicesSeinen/payments-ms.git
+[submodule "auth-ms"]
+	path = auth-ms
+	url = https://github.com/Nest-MicroservicesSeinen/auth-ms.git
